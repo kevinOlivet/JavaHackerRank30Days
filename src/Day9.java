@@ -1,6 +1,13 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-recursion/problem
+//Sample Input
+//        3
+//
+//Sample Output
+//        6
+
 public class Day9 {
 
     // Complete the factorial function below.

@@ -4,6 +4,16 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+//https://www.hackerrank.com/challenges/30-sorting/problem
+//Sample Input 1
+//        3
+//        3 2 1
+//
+//Sample Output 1
+//        Array is sorted in 3 swaps.
+//        First Element: 1
+//        Last Element: 3
+
 public class Day20 {
 
     public static void main(String[] args) {

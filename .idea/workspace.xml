@@ -2,10 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c812b78-06eb-4080-9e29-8f25fba321c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/META-INF/HackerRank30Days.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day19Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day19Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day22Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day22Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day23Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day23Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day24Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day24Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27$TestDataEmptyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27$TestDataEmptyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27$TestDataExactlyTwoDifferentMinimums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27$TestDataExactlyTwoDifferentMinimums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27$TestDataUniqueValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27$TestDataUniqueValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Day9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Day9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Difference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Difference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/MyBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/MyBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/NegativeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/NegativeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30Days/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank30Days/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +109,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RAPYp1E4rAN9LSd46k8JKYoDFp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day0">
+  <component name="RunManager" selected="Application.Day29">
     <configuration name="Day0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day0" />
       <module name="HackerRank30Days" />
@@ -76,22 +152,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day26" />
+    <configuration name="Day15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15" />
       <module name="HackerRank30Days" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day28" />
+    <configuration name="Day29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day29" />
       <module name="HackerRank30Days" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30" />
+    <configuration name="Day8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8" />
       <module name="HackerRank30Days" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day29" />
+        <item itemvalue="Application.Day15" />
+        <item itemvalue="Application.Day8" />
         <item itemvalue="Application.Day0" />
         <item itemvalue="Application.Day1" />
-        <item itemvalue="Application.Day30" />
-        <item itemvalue="Application.Day28" />
-        <item itemvalue="Application.Day26" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +199,7 @@
       <workItem from="1569109285374" duration="17000" />
       <workItem from="1569109548947" duration="24000" />
       <workItem from="1569109855648" duration="100000" />
+      <workItem from="1569183342050" duration="2034000" />
     </task>
     <servers />
   </component>

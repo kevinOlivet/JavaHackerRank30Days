@@ -1,5 +1,18 @@
 import java.util.*;
 
+//https://www.hackerrank.com/domains/tutorials/30-days-of-code
+//Sample Input 1
+//        5
+//
+//Sample Output 1
+//        1
+//
+//Sample Input 2
+//        13
+//
+//Sample Output 2
+//        2
+
 public class Day10 {
 
     private static final Scanner scanner = new Scanner(System.in);

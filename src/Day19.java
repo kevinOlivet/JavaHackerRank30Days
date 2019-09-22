@@ -1,6 +1,14 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-interfaces/problem
+//Sample Input
+//        6
+//
+//Sample Output
+//        I implemented: AdvancedArithmetic
+//        12
+
 interface AdvancedArithmetic{
     int divisorSum(int n);
 }

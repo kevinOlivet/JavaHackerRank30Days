@@ -1,5 +1,16 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-linked-list/problem
+//Sample Input
+//        4
+//        2
+//        3
+//        4
+//        1
+//
+//Sample Output
+//        2 3 4 1
+
 class Node {
     int data;
     Node next;

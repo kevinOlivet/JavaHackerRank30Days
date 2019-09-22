@@ -1,5 +1,12 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-queues-stacks/problem
+//Sample Input
+//        racecar
+//
+//Sample Output
+//        The word, racecar, is a palindrome.
+
 public class Day18 {
     // Write your code here.
     Stack<Character> myStack = new Stack<Character>();

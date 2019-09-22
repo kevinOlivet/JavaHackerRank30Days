@@ -1,6 +1,20 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-more-exceptions/problem
+//Sample Input
+//        4
+//        3 5
+//        2 4
+//        -1 -2
+//        -1 3
+//
+//Sample Output
+//        243
+//        16
+//        n and p should be non-negative
+//        n and p should be non-negative
+
 //Write your code here
 class NegativeException extends Exception {
     @Override

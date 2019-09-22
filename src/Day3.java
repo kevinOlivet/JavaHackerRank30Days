@@ -1,5 +1,18 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-conditional-statements/problem
+//Sample Input 0
+//        3
+//
+//Sample Output 0
+//        Weird
+//
+//Sample Input 1
+//        24
+//
+//Sample Output 1
+//        Not Weird
+
 public class Day3 {
 
     static void isItWeird(int input) {

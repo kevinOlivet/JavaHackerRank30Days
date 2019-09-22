@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-testing/problem
+
 public class Day27 {
 
     public static int minimum_index(int[] seq) {

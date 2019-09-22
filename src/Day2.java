@@ -1,5 +1,14 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-operators/problem
+//Sample Input
+//        12.00
+//        20
+//        8
+//
+//Sample Output
+//        15
+
 public class Day2 {
 
     // Complete the solve function below.

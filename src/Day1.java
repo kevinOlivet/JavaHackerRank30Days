@@ -1,5 +1,16 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-data-types/problem
+//Sample Input
+//        12
+//        4.0
+//        is the best place to learn and practice coding!
+//
+//Sample Output
+//        16
+//        8.0
+//        HackerRank is the best place to learn and practice coding!
+
 public class Day1 {
 
     public static void main(String[] args) {

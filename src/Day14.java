@@ -1,5 +1,13 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-scope/problem
+//Sample Input
+//        3
+//        1 2 5
+//
+//Sample Output
+//        4
+
 class Difference {
     private int[] elements;
     public int maximumDifference;

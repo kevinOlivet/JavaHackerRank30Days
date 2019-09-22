@@ -1,5 +1,18 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
+//Sample Input
+//        6
+//        1
+//        2
+//        2
+//        3
+//        3
+//        4
+//
+//Sample Output
+//        1 2 3 4
+
 class Day24Node {
     int data;
     Day24Node next;

@@ -1,5 +1,15 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-review-loop/problem
+//Sample Input
+//        2
+//        Hacker
+//        Rank
+//
+//Sample Output
+//        Hce akr
+//        Rn ak
+
 public class Day6 {
 
     public static void main(String[] args) {

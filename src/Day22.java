@@ -1,5 +1,19 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-binary-search-trees/problem
+//Sample Input
+//        7
+//        3
+//        5
+//        2
+//        1
+//        4
+//        6
+//        7
+//
+//Sample Output
+//        3
+
 class Day22Node{
     Day22Node left,right;
     int data;

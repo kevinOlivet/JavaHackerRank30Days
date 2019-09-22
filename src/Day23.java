@@ -1,5 +1,18 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-binary-trees/problem
+//Sample Input
+//        6
+//        3
+//        5
+//        4
+//        7
+//        2
+//        1
+//
+//Sample Output
+//        3 2 5 1 4 7
+
 class Day23Node{
     Day23Node left,right;
     int data;

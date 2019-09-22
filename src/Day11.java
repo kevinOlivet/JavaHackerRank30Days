@@ -1,5 +1,17 @@
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-2d-arrays/problem
+//Sample Input
+//        1 1 1 0 0 0
+//        0 1 0 0 0 0
+//        1 1 1 0 0 0
+//        0 0 2 4 4 0
+//        0 0 0 2 0 0
+//        0 0 1 2 4 0
+//
+//Sample Output
+//        19
+
 public class Day11 {
 
     private static final Scanner scanner = new Scanner(System.in);

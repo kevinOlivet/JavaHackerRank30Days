@@ -1,6 +1,18 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem
+//Sample Input
+//        3
+//        12
+//        5
+//        7
+//
+//Sample Output
+//        Not prime
+//        Prime
+//        Prime
+
 public class Day25 {
 
     public static void main(String[] args) {

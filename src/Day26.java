@@ -1,6 +1,14 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/30-nested-logic/problem
+//Sample Input
+//        9 6 2015
+//        6 6 2015
+//
+//Sample Output
+//        45
+
 public class Day26 {
 
     public static void main(String[] args) {

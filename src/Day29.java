@@ -6,9 +6,19 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Day30 {
+//https://www.hackerrank.com/challenges/30-bitwise-and/problem
+//Sample Input
+//        3
+//        5 2
+//        8 5
+//        2 2
+//
+//Sample Output
+//        1
+//        4
+//        0
 
-
+public class Day29 {
 
     private static final Scanner scanner = new Scanner(System.in);
 

@@ -6,9 +6,24 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+//https://www.hackerrank.com/challenges/30-regex-patterns/problem
+//Sample Input
+//        6
+//        riya riya@gmail.com
+//        julia julia@julia.me
+//        julia sjulia@gmail.com
+//        julia julia@gmail.com
+//        samantha samantha@gmail.com
+//        tanya tanya@gmail.com
+//
+//Sample Output
+//        julia
+//        julia
+//        riya
+//        samantha
+//        tanya
+
 public class Day28 {
-
-
 
     private static final Scanner scanner = new Scanner(System.in);
 
